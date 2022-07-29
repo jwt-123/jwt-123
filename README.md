@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jw5t</h1>
-<h3 align="center">熟练挖掘明文传输漏洞的新手白帽子</h3>
+<h3 align="center">Security researchers and learning GO</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jw5t&label=Profile%20views&color=0e75b6&style=flat" alt="jw5t" /> </p>
 
